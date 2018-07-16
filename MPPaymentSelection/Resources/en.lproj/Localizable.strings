@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  MPPaymentSelection
+
+  Created by Gerlandio Da Silva Lucena on 15/07/2018.
+  Copyright © 2018 GerlandioLucena. All rights reserved.
+*/
+
+"loading"="Loading...";
+"errorLoadingInformation"="Unable to load the information. No bank associated with the means of payment.";
+"selectAgain"="Select again";
+"next"="Next";
+"prev"="Previous";
+"selectPaymentMethod"="Select payment method";
+"selectBank"="Select bank";
+"selectInstallments"="Select installmentes:";
+"conclude"="Finish";

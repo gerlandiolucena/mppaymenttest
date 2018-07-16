@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "-"; ObjectID = "0zP-I6-ScM"; */
+"0zP-I6-ScM.text" = "-";
+
+/* Class = "UIButton"; normalTitle = "Concluir"; ObjectID = "4Ud-aQ-sfc"; */
+"4Ud-aQ-sfc.normalTitle" = "Concluir";
+
+/* Class = "UILabel"; text = "R$ 0,00"; ObjectID = "6Xi-Di-fts"; */
+"6Xi-Di-fts.text" = "R$ 0,00";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "7VK-aD-tA6"; */
+"7VK-aD-tA6.text" = "-";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "8pd-aA-jkQ"; */
+"8pd-aA-jkQ.text" = "-";
+
+/* Class = "UIButton"; normalTitle = "Concluir"; ObjectID = "Got-GU-Zg0"; */
+"Got-GU-Zg0.normalTitle" = "Concluir";
+
+/* Class = "UIBarButtonItem"; title = "Ok"; ObjectID = "Hhz-Lm-68n"; */
+"Hhz-Lm-68n.title" = "Ok";
+
+/* Class = "UILabel"; text = "A operação de pagamento foi concluída com o valor de :"; ObjectID = "Mjf-n6-OJu"; */
+"Mjf-n6-OJu.text" = "A operação de pagamento foi concluída com o valor de :";
+
+/* Class = "UITextField"; placeholder = "R$ 0,00"; ObjectID = "OFn-ue-6cf"; */
+"OFn-ue-6cf.placeholder" = "R$ 0,00";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "PrX-lR-R5H"; */
+"PrX-lR-R5H.text" = "-";
+
+/* Class = "UIButton"; normalTitle = "< Anterior"; ObjectID = "Y2o-3B-wfM"; */
+"Y2o-3B-wfM.normalTitle" = "< Anterior";
+
+/* Class = "UILabel"; text = "Selecione o meio de pagamento:"; ObjectID = "YrG-Xk-aBb"; */
+"YrG-Xk-aBb.text" = "Selecione o meio de pagamento:";
+
+/* Class = "UIButton"; normalTitle = "Próximo >"; ObjectID = "dZa-dp-c3G"; */
+"dZa-dp-c3G.normalTitle" = "Próximo >";
+
+/* Class = "UILabel"; text = "Selecione a quantidade de parcelas:"; ObjectID = "ddg-98-0wC"; */
+"ddg-98-0wC.text" = "Selecione a quantidade de parcelas:";
+
+/* Class = "UILabel"; text = "Selecione o banco:"; ObjectID = "fym-15-X7o"; */
+"fym-15-X7o.text" = "Selecione o banco:";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "gBA-Hi-gjp"; */
+"gBA-Hi-gjp.text" = "-";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "mc8-UU-psm"; */
+"mc8-UU-psm.text" = "-";
+
+/* Class = "UILabel"; text = "R$ 0,00"; ObjectID = "nWf-Cc-b72"; */
+"nWf-Cc-b72.text" = "R$ 0,00";
+
+/* Class = "UIButton"; normalTitle = "< Anterior"; ObjectID = "o0R-fu-U8s"; */
+"o0R-fu-U8s.normalTitle" = "< Anterior";
+
+/* Class = "UILabel"; text = "R$ 0,00"; ObjectID = "uod-Vn-ob5"; */
+"uod-Vn-ob5.text" = "R$ 0,00";
+
+/* Class = "UIButton"; normalTitle = "< Anterior"; ObjectID = "wd9-94-vgF"; */
+"wd9-94-vgF.normalTitle" = "< Anterior";
