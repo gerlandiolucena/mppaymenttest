@@ -39,29 +39,22 @@ Una excepción es un error recibido después de una ejecución dentro del progra
 
 Programación y Java (puede haber más de una rta correcta)
 1. equals() y hashCode()
+
 [x] a. Son equivalentes 
-[ ] b. No tienen relación
-[ ] c. Dos objetos iguales para equals deben tener el mismo hashcode
-[ ] d. Dos objetos distintos pueden tener el mismo hashcode
-[ ] e. Son fundamentales para meter objetos en un hashSet
+
 2. Synchronized...
+
 [x] a. Es para evitar que más de un hilo ejecute una sección del código al mismo tiempo
-[ ] b. Es una palabra reservada en Java
-[ ] c. Se puede usar como modificador de una variable de instancia
-[ ] d. Se puede usar como modificador de un método de instancia
-[ ] e. Se puede usar como modificador de una clase
-[ ] f. Se puede usar para sincronizar sólo algunas líneas dentro de un método.
+
 3. HTTP (HyperText Transfer Protocol)
-[ ] a. Es un programa para navegar internet
+
 [x] b. Es un protocolo stateless
-[ ] c. Para un request solo corresponde un response
-[ ] d. Permite transferir únicamente Hipertexto.
-[ ] e. GET y POST Son equivalentes
-[ ] f. HTTP siempre viaja encriptado para evitar que alguien pueda ver el contenido.
+
 4. Explique qué entiende por REST y de un ejemplo
 ```
 Una API es una forma de exponer servicios a la WEB. REST es un protocolo de transferencia que utiliza verbos para la comunicación con servidores.
 ```
+
 5. Enumere tres headers de HTTP y su funcionalidad
 ```
 Content-Type: es el formato que se utiliza para enviar la solicitud.
@@ -70,18 +63,10 @@ Autenticación: es un hash que permite autenticar las peticiones efectuadas al s
 ````
 6. ¿Qué son y qué diferencias hay entre un Thread (Hilo) y un Proceso ? 
 
-[ ] a. Son sinónimos
-[ ] b. Un proceso puede tener múltiples threads
 [x] c. Un thread puede tener múltiples procesos
-[ ] d. Los procesos no comparten espacio de memoria
-[ ] e. Los threads no comparten espacio de memoria
 
 7. ¿Cómo se logra la ejecución de más de 1 hilo en un procesador con un solo core (núcleo)?
-[ ] a. No es posible
-[ ] b. Se particiona el core en partes para cada hilo
 [x] c. Se turnan los hilos para correr en el mismo core en espacios de tiempo pequeños. 
-[ ] d. Se turnan entrando uno al terminar el trabajo del anterior.
-[ ] e. Se generan nuevos cores a demanda, para cada hilo.
 
 ### Conocimientos de iOS
 1. Explique detalladamente como funciona el manejo de memoria en Objective-C/iOS
